@@ -1,0 +1,20 @@
+2020.01.19:
+* changed: cmake update versus latest tacklelib library
+* changed: merge with the latest library repository changes at commit #6b47861cd47a6e31841260c47a52b579f8cf2fa9 (2018.11.05) from https://github.com/dnwrnr/sgp4/commits/master
+* changed: readme update
+* missed change
+
+2018.11.01:
+* changed: added missed tle element set number field extraction
+* changed: minor change over the `= default` operator usage (C++11 standard)
+
+2018.10.01:
+* changed: merge with the latest library repository changes at commit #e73df2f240b3a7d290903cfdc6bae55777f7f063 from https://github.com/dnwrnr/sgp4/commits/master
+* changed: missed back merge from full patched version
+
+2018.09.27:
+* fixed: build fix
+* minor fixup and refactor
+
+2018.08.19:
+* new: copy from original (vanilla) version with p1 patches fixing only compilation issues, crashes and serious bugs, without time precision fixes and upgrage with QD support
