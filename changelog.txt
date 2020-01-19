@@ -1,3 +1,6 @@
+2020.01.20:
+* changed: merge with the latest library repository changes at commit #f5cb54b382a5b4787432ab5b9a1e83de1a224610 (2019.12.07) from https://github.com/dnwrnr/sgp4/commits/master
+
 2020.01.19:
 * changed: cmake update versus latest tacklelib library
 * changed: merge with the latest library repository changes at commit #6b47861cd47a6e31841260c47a52b579f8cf2fa9 (2018.11.05) from https://github.com/dnwrnr/sgp4/commits/master
