@@ -2,11 +2,11 @@
 * changed: cutted off the version reference from the readme file as may change frequently
 
 2020.01.20:
-* changed: merge with the latest library repository changes at commit #f5cb54b382a5b4787432ab5b9a1e83de1a224610 (2019.12.07) from https://github.com/dnwrnr/sgp4/commits/master (https://github.com/dnwrnr/sgp4/commit/f5cb54b382a5b4787432ab5b9a1e83de1a224610 )
+* changed: merge with the library repository changes at commit #f5cb54b382a5b4787432ab5b9a1e83de1a224610 (2019.12.07) from https://github.com/dnwrnr/sgp4/commits/master (https://github.com/dnwrnr/sgp4/commit/f5cb54b382a5b4787432ab5b9a1e83de1a224610 )
 
 2020.01.19:
-* changed: cmake update versus latest tacklelib library
-* changed: merge with the latest library repository changes at commit #6b47861cd47a6e31841260c47a52b579f8cf2fa9 (2018.11.05) from https://github.com/dnwrnr/sgp4/commits/master (https://github.com/dnwrnr/sgp4/commit/6b47861cd47a6e31841260c47a52b579f8cf2fa9 )
+* changed: cmake update versus tacklelib library
+* changed: merge with the library repository changes at commit #6b47861cd47a6e31841260c47a52b579f8cf2fa9 (2018.11.05) from https://github.com/dnwrnr/sgp4/commits/master (https://github.com/dnwrnr/sgp4/commit/6b47861cd47a6e31841260c47a52b579f8cf2fa9 )
 * changed: readme update
 * missed change
 
@@ -15,7 +15,7 @@
 * changed: minor change over the `= default` operator usage (C++11 standard)
 
 2018.10.01:
-* changed: merge with the latest library repository changes at commit #e73df2f240b3a7d290903cfdc6bae55777f7f063 from https://github.com/dnwrnr/sgp4/commits/master (https://github.com/dnwrnr/sgp4/commit/e73df2f240b3a7d290903cfdc6bae55777f7f063 )
+* changed: merge with the library repository changes at commit #e73df2f240b3a7d290903cfdc6bae55777f7f063 from https://github.com/dnwrnr/sgp4/commits/master (https://github.com/dnwrnr/sgp4/commit/e73df2f240b3a7d290903cfdc6bae55777f7f063 )
 * changed: missed back merge from full patched version
 
 2018.09.27:
