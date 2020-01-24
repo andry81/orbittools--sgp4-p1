@@ -1,5 +1,5 @@
 * README_EN.txt
-* 2020.01.19
+* 2020.01.24
 * sgp4
 
 1. DESCRIPTION
@@ -12,15 +12,14 @@
 1. DESCRIPTION
 -------------------------------------------------------------------------------
 SGP4 patched sources fork from:
-https://www.danrw.com/sgp4/
 https://github.com/dnwrnr/sgp4
 
-Based on version: 2018.11.05 <6b47861cd47a6e31841260c47a52b579f8cf2fa9>
+Web access:
+  https://www.danrw.com/sgp4/
 
-Partially refactored to be used as a C++ library by adding namespaces, std
-types usage and std function calls.
+From authors:
 
-C++ SGP4 Satellite Library
+  C++ SGP4 Satellite Library
 
 The original library patched to fix only these critical (p1) issues:
 
